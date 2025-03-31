@@ -11,7 +11,6 @@
 from typing import Optional
 import tracemalloc
 
-import fire
 import argparse
 import os
 import math
